@@ -1,6 +1,8 @@
 # Core & Data Handling
 pandas>=2.0.0
 numpy>=1.20.0
+ipython>=8.0.0
+shap>=0.40.0
 
 # Visualization
 matplotlib>=3.0.0
